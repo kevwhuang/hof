@@ -1,0 +1,1 @@
+Run `index.html` in browser and see console logs.
